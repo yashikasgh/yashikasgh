@@ -12,7 +12,9 @@
 
 <br clear="both">
 
-<img align="left" height="700" src="https://i.gifer.com/XjFJ.gif"  />
+<div align="center">
+  <img height="400" src="https://i.gifer.com/17eq.gif"  />
+</div>
 
 ###
 
@@ -25,12 +27,6 @@
 <br clear="both">
 
 <h2 align="left">SKILLSET 👩‍💻</h2>
-
-###
-
-<br clear="both">
-
-<img align="right" height="200" src="https://i.gifer.com/17eq.gif"  />
 
 ###
 
