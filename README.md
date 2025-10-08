@@ -13,7 +13,7 @@
 <br clear="both">
 
 <div align="center">
- <img height="500" width="500" src="https://i.gifer.com/17eq.gif" />
+ <img height="400" width="700" src="https://i.gifer.com/17eq.gif" />
 </div>
 
 ###
