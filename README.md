@@ -20,7 +20,7 @@
 
 <br clear="both">
 
-<h3 align="left">Computer Science Undergrad who loves building and designing websites. <br>Deeply interested in Generative AI.<br>I really enjoy using GenAI to solve complex problems and create new possibilities.<br><br>In my free time, you're gonna find me:<br><br>🎼Plugged into a great playlist.<br>🎨Becoming Picasso 2.0 :P !<br>🍿Watching a show.</h3>
+<h3 align="left">Computer Science Undergrad who loves building and designing websites. <br>Deeply interested in Generative AI.<br>I really enjoy using GenAI to solve complex problems and create new possibilities.<br></h3>
 
 ###
 
