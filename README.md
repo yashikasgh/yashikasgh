@@ -2,7 +2,7 @@
 <h1 align="center">Hey! 🌸 I'm Yashika</h1>
 
 <p align="center">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yashikasgh/yashikasgh/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yashikasgh/yashikasgh/output/github-snake.svg" alt="pacman contribution graph">
 </p>
 
 # 💫 About Me:
