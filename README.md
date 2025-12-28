@@ -33,4 +33,10 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yashikasgh/yashikasgh/output/github-snake.svg" alt="pacman contribution graph">
 </p>
 
+
+
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=yashikaasinghh&color=555555&style=flat-square&label=PROFILE+VIEWS)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
