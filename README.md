@@ -7,7 +7,7 @@
 
 ## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashikaasinghh) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/awwborealis62) 
+[![Goodreads](https://img.shields.io/badge/Goodreads-%23372213.svg?logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/156247232-yashika)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/singhhyashikaa) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singh.yashika506@gmail.com) 
 
